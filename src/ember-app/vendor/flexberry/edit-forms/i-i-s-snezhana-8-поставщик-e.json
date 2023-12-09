@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Поставщик",
+  "name": "IISSnezhana_8ПоставщикE",
+  "className": "ПоставщикE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-snezhana-8-поставщик",
+      "modelProjection": "ПоставщикE"
+    }
+  ]
+}

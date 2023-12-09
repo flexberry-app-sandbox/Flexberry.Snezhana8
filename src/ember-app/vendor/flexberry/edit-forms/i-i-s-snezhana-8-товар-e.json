@@ -1,0 +1,39 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Поставщик",
+      "projection": "ПоставщикL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Заказ",
+      "projection": "ЗаказL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Производитель",
+      "projection": "ПроизводительL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Товар",
+  "name": "IISSnezhana_8ТоварE",
+  "className": "ТоварE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-snezhana-8-товар",
+      "modelProjection": "ТоварE"
+    }
+  ]
+}

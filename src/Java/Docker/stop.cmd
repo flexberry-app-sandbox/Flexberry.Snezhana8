@@ -1,0 +1,1 @@
+docker-compose -p snezhana_8-java down

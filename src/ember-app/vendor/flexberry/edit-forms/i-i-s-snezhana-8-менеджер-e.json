@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Менеджер",
+  "name": "IISSnezhana_8МенеджерE",
+  "className": "МенеджерE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-snezhana-8-менеджер",
+      "modelProjection": "МенеджерE"
+    }
+  ]
+}

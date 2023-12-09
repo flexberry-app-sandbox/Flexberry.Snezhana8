@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-snezhana-8-заказ-e",
+  "editForm": "i-i-s-snezhana-8-заказ-e",
+  "external": false,
+  "caption": "Заказ",
+  "name": "IISSnezhana_8ЗаказL",
+  "className": "ЗаказL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-snezhana-8-заказ",
+      "modelProjection": "ЗаказL"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+﻿{
+  "name": "IISSnezhana_8Доставка",
+  "modelName": "i-i-s-snezhana-8-доставка",
+  "className": "Доставка",
+  "nameSpace": "IIS.Snezhana_8",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "типДоставки",
+      "type": "i-i-s-snezhana-8-тип-доставки",
+      "flexberryType": "ТипДоставки",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "ДоставкаE",
+      "modelName": "i-i-s-snezhana-8-доставка",
+      "attrs": [
+        {
+          "name": "типДоставки",
+          "caption": "Тип доставки",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "ДоставкаL",
+      "modelName": "i-i-s-snezhana-8-доставка",
+      "attrs": [
+        {
+          "name": "типДоставки",
+          "caption": "Тип доставки",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

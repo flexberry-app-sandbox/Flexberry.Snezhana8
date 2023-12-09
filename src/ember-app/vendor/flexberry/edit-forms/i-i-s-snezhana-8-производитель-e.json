@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Производитель",
+  "name": "IISSnezhana_8ПроизводительE",
+  "className": "ПроизводительE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-snezhana-8-производитель",
+      "modelProjection": "ПроизводительE"
+    }
+  ]
+}

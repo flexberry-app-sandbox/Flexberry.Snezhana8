@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-snezhana-8-доставка-e",
+  "editForm": "i-i-s-snezhana-8-доставка-e",
+  "external": false,
+  "caption": "Доставка",
+  "name": "IISSnezhana_8ДоставкаL",
+  "className": "ДоставкаL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-snezhana-8-доставка",
+      "modelProjection": "ДоставкаL"
+    }
+  ]
+}
