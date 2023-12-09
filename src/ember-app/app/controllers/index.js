@@ -22,19 +22,19 @@ export default Controller.extend({
             link: 'i-i-s-snezhana-8-поставщик-l',
             caption: i18n.t('forms.application.sitemap.справочник-товары.i-i-s-snezhana-8-поставщик-l.caption'),
             title: i18n.t('forms.application.sitemap.справочник-товары.i-i-s-snezhana-8-поставщик-l.title'),
-            icon: 'file',
+            icon: 'folder',
             children: null
           }, {
             link: 'i-i-s-snezhana-8-товар-l',
             caption: i18n.t('forms.application.sitemap.справочник-товары.i-i-s-snezhana-8-товар-l.caption'),
             title: i18n.t('forms.application.sitemap.справочник-товары.i-i-s-snezhana-8-товар-l.title'),
-            icon: 'archive',
+            icon: 'list',
             children: null
           }, {
             link: 'i-i-s-snezhana-8-производитель-l',
             caption: i18n.t('forms.application.sitemap.справочник-товары.i-i-s-snezhana-8-производитель-l.caption'),
             title: i18n.t('forms.application.sitemap.справочник-товары.i-i-s-snezhana-8-производитель-l.title'),
-            icon: 'chart line',
+            icon: 'building',
             children: null
           }]
         }, {
@@ -46,13 +46,12 @@ export default Controller.extend({
             link: 'i-i-s-snezhana-8-заказ-l',
             caption: i18n.t('forms.application.sitemap.заказ.i-i-s-snezhana-8-заказ-l.caption'),
             title: i18n.t('forms.application.sitemap.заказ.i-i-s-snezhana-8-заказ-l.title'),
-            icon: 'address card',
+            icon: 'file',
             children: null
           }, {
             link: 'i-i-s-snezhana-8-доставка-l',
             caption: i18n.t('forms.application.sitemap.заказ.i-i-s-snezhana-8-доставка-l.caption'),
             title: i18n.t('forms.application.sitemap.заказ.i-i-s-snezhana-8-доставка-l.title'),
-            icon: 'archive',
             children: null
           }]
         }, {
@@ -64,7 +63,7 @@ export default Controller.extend({
             link: 'i-i-s-snezhana-8-клиент-l',
             caption: i18n.t('forms.application.sitemap.клиенты.i-i-s-snezhana-8-клиент-l.caption'),
             title: i18n.t('forms.application.sitemap.клиенты.i-i-s-snezhana-8-клиент-l.title'),
-            icon: 'table',
+            icon: 'book',
             children: null
           }]
         }, {
@@ -76,6 +75,7 @@ export default Controller.extend({
             link: 'i-i-s-snezhana-8-менеджер-l',
             caption: i18n.t('forms.application.sitemap.менеджер.i-i-s-snezhana-8-менеджер-l.caption'),
             title: i18n.t('forms.application.sitemap.менеджер.i-i-s-snezhana-8-менеджер-l.title'),
+            icon: 'suitcase',
             children: null
           }]
         }
